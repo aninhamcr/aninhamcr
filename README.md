@@ -14,19 +14,13 @@ Possuo perfil proativo e organizado, contribuindo ativamente com soluções inov
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninhamcr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" /> </p>
-
----
-
 ### 📫 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/ana-maria-cunha-213a2b287" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL@exemplo.com">
+  <a href="mailto:amcr@cin.ufpe.br">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
