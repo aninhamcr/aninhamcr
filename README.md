@@ -14,16 +14,9 @@ Possuo perfil proativo e organizado, contribuindo ativamente com soluções inov
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aninhamcr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninhamcr&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aninhamcr&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninhamcr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" /> </p>
 
 ---
 
