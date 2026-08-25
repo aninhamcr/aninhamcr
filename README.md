@@ -1,9 +1,4 @@
 <h1 align="center">Olá, eu sou Ana Maria 👋</h1>
-
-<p align="center">
-  Estudante de Engenharia da Computação na UFPE 
-</p>
-
 ---
 
 ### 🚀 Sobre mim
